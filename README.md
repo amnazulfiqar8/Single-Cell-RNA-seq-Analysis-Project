@@ -1,5 +1,5 @@
 # Single-Cell-RNA-seq-Analysis-Project
-Introduction
+# Introduction
 
 Single-cell RNA sequencing (scRNA-seq) is a powerful technique used to analyze gene expression at the individual cell level. Unlike bulk RNA sequencing, it allows researchers to study cellular heterogeneity, identify rare cell populations, and understand complex biological systems. This report presents three major components of scRNA-seq analysis: preprocessing of 10X Genomics data, basic analysis using Scanpy, and understanding the AnnData data structure.
 
